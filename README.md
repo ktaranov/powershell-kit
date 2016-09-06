@@ -3,10 +3,11 @@
 [![stars badge]][stars]
 [![forks badge]][forks]
 [![issues badge]][issues]
+
 Useful links, scripts, tools and best practice for PowerShell
 
 
-## Headers
+Headers
  - [Repo Folders and Fles](#repo-folders-and-files)
  - [PowerShell Web Resources](PowerShell-web-resources)
  - [PowerShell and SQL Server](powershell-and-sql-server)
@@ -22,6 +23,8 @@ Useful links, scripts, tools and best practice for PowerShell
    - [SS64.com PowerShell](www.ss64.com/ps/)
    - [Adminarsenal.com PowerShell](http://www.adminarsenal.com/admin-arsenal-blog/category/powershell/)
    - [PowerShell.org Articles](https://powershell.org/articles/)
+   - [Simple Talk PowerShell](https://www.simple-talk.com/sysadmin/powershell/)
+   - [SQLServerCentral.com PowerShell](http://www.sqlservercentral.com/Tags/powershell/)
  - Open Source Libraries and Cmdlets
    - [excelpslib - Excel PowerShell Library]:http://excelpslib.codeplex.com/
    - [Invoke-Parallel]:https://github.com/RamblingCookieMonster/Invoke-Parallel
