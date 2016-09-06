@@ -26,9 +26,9 @@ Headers
    - [Simple Talk PowerShell](https://www.simple-talk.com/sysadmin/powershell/)
    - [SQLServerCentral.com PowerShell](http://www.sqlservercentral.com/Tags/powershell/)
  - Open Source Libraries and Cmdlets
-   - [excelpslib - Excel PowerShell Library]:http://excelpslib.codeplex.com/
-   - [Invoke-Parallel]:https://github.com/RamblingCookieMonster/Invoke-Parallel
-   - [PSExcel]:https://github.com/RamblingCookieMonster/PSExcel
+   - [excelpslib - Excel PowerShell Library](http://excelpslib.codeplex.com/) (Codeplex)
+   - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) (Github)
+   - [PSExcel](https://github.com/RamblingCookieMonster/PSExcel) (Github)
 
 
 ## PowerShell and SQL Server
