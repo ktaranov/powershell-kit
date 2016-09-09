@@ -25,10 +25,21 @@ Headers
    - [PowerShell.org Articles](https://powershell.org/articles/)
    - [Simple Talk PowerShell](https://www.simple-talk.com/sysadmin/powershell/)
    - [SQLServerCentral.com PowerShell](http://www.sqlservercentral.com/Tags/powershell/)
+   - [Hey, Scripting Guy! Blog](https://blogs.technet.microsoft.com/heyscriptingguy/)
+   - [Microsoft Script Center](https://technet.microsoft.com/en-us/scriptcenter)
  - Open Source Libraries and Cmdlets
    - [excelpslib - Excel PowerShell Library](http://excelpslib.codeplex.com/) (Codeplex)
    - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) (Github)
    - [PSExcel](https://github.com/RamblingCookieMonster/PSExcel) (Github)
+   - [ISEScriptingGeek - ISE Add-ons](https://github.com/jdhitsolutions/ISEScriptingGeek) (Github)
+   - [MemoryTools](https://github.com/jdhitsolutions/MemoryTools) (Github)
+   - [MyUptime - PowerShell module to get uptime, timezone and local time information](https://github.com/jdhitsolutions/MyUptime) (Github)
+ - Free Videos
+   - [Jeff Hicks YouTube Channel](http://www.youtube.com/user/jdhitsolutions/videos)
+   - [Don Jones YouTube Channel](http://www.youtube.com/user/powershelldon)
+ - Courses
+   - [Pluralsight PowerShell Courses](https://www.pluralsight.com/search?q=powershell&categories=all) Paid
+   
 
 
 ## PowerShell and SQL Server
