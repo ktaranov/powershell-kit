@@ -34,6 +34,7 @@ Headers
    - [ISEScriptingGeek - ISE Add-ons](https://github.com/jdhitsolutions/ISEScriptingGeek) (Github)
    - [MemoryTools](https://github.com/jdhitsolutions/MemoryTools) (Github)
    - [MyUptime - PowerShell module to get uptime, timezone and local time information](https://github.com/jdhitsolutions/MyUptime) (Github)
+   - [Rob Sewell PowerShell Functions](https://github.com/SQLDBAWithABeard/Functions) (Github)
  - Free Videos
    - [Jeff Hicks YouTube Channel](http://www.youtube.com/user/jdhitsolutions/videos)
    - [Don Jones YouTube Channel](http://www.youtube.com/user/powershelldon)

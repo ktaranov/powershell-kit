@@ -12,7 +12,8 @@
 | [Transforming Data with PowerShell Classes, Part 1]                  | Jeff Hicks      | 2016-09-06 |
 | [PowerShell Desired State Configuration: DSC Resources]              | Nicolas Prigent | 2016-08-23 |
 | [Stairway to SQL PowerShell]                                         | Ben Miller      | 2013-2015  |
-| [PSYaml: PowerShell does YAML]                                       | Phil Factor     | 2016-09-23 
+| [PSYaml: PowerShell does YAML]                                       | Phil Factor     | 2016-09-23 |
+| [PowerShell, Pester and Ola Hallengrens Maintenance Solution]        | Rob Sewell      | 2016-09-24 |
 
 [When to Quote in PowerShell]:https://www.simple-talk.com/sysadmin/powershell/when-to-quote-in-powershell/
 [Error handling with try-catch-finally in PowerShell for SQL Server]:https://www.mssqltips.com/sqlservertip/3509/error-handling-with-trycatchfinally-in-powershell-for-sql-server/
@@ -24,3 +25,4 @@
 [PowerShell Desired State Configuration: DSC Resources]:https://www.simple-talk.com/sysadmin/powershell/powershell-desired-state-configuration-dsc-resources/
 [Stairway to SQL PowerShell]:http://www.sqlservercentral.com/stairway/91327/
 [PSYaml: PowerShell does YAML]:https://www.simple-talk.com/blogs/psyaml-powershell-yaml/
+[PowerShell, Pester and Ola Hallengrens Maintenance Solution]:https://sqldbawithabeard.com/2016/09/24/powershell-pester-and-ola-hallengrens-maintenance-solution/
