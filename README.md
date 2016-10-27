@@ -29,12 +29,14 @@ Headers
    - [Microsoft Script Center](https://technet.microsoft.com/en-us/scriptcenter)
  - Open Source Libraries and Cmdlets
    - [excelpslib - Excel PowerShell Library](http://excelpslib.codeplex.com/) (Codeplex)
-   - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) (Github)
-   - [PSExcel](https://github.com/RamblingCookieMonster/PSExcel) (Github)
+   - [Invoke-Parallel - a function that take in a script or scriptblock, and run it against specified objects(s) in parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) (Github)
+   - [PSExcel - a rudimentary PowerShell module for working with Excel via the EPPlus library, with no dependencies on Excel itself](https://github.com/RamblingCookieMonster/PSExcel) (Github)
    - [ISEScriptingGeek - ISE Add-ons](https://github.com/jdhitsolutions/ISEScriptingGeek) (Github)
-   - [MemoryTools](https://github.com/jdhitsolutions/MemoryTools) (Github)
+   - [MemoryTools -  a set of PowerShell functions for reporting on computer memory utilization and configuration](https://github.com/jdhitsolutions/MemoryTools) (Github)
    - [MyUptime - PowerShell module to get uptime, timezone and local time information](https://github.com/jdhitsolutions/MyUptime) (Github)
    - [Rob Sewell PowerShell Functions](https://github.com/SQLDBAWithABeard/Functions) (Github)
+   - [Adam Bertram PowerShell Scripts](https://github.com/adbertram/Random-PowerShell-Work) (Github)
+   - [PoshRSJob - an alternative to PSjobs with greater performance and less overhead to run commands in the background](https://github.com/proxb/PoshRSJob) (Github)
  - Free Videos
    - [Jeff Hicks YouTube Channel](http://www.youtube.com/user/jdhitsolutions/videos)
    - [Don Jones YouTube Channel](http://www.youtube.com/user/powershelldon)
