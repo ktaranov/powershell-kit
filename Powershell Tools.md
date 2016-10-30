@@ -1,14 +1,15 @@
 # PowerShell Tools and Utilities
 
 
-| Name/Description             | Portable | Support Version | Official/Download page | Release Date | Developer      | Free version | Price |
-|------------------------------|----------|-----------------|------------------------|--------------|:---------------|--------------|------:|
-| [ConEmu](#conemu)            | Yes      | > 2             | [ConEmu]               | 2016-09-05   |  ConEmu        | Yes          | No    |
-| [ISE](#ise)                  | No       | > 1             | [ISE]                  | 2015-10-30   |  Microsoft     | Yes          | No    |
-| [ISESteroids](#isesteroids)  | No       | > 2             | [ISESteroids]          | 2016-09-06   |  PowerTheShell | No           |   €99 |
-| [PowerShell Plus](#plus)     | No       | > 2             | [PowerShell Plus]      | 2016-03-12   |  Idera         | Yes          | No    |
-| [PowerGui](#powergui)        | No       | > 2             | [PowerGui]             | 2014-04-07   |  ConEmu        | Yes          | No    |
-| [PowerShell Studio](#studio) | No       | > 2             | [PowerShell Studio]    | 2016-03-12   |  SAPIEN        | Yes          |  $389 |
+| Name/Description                                   | Portable | Support Version | Official/Download page | Release Date | Developer     | Free version | Price |
+|----------------------------------------------------|----------|-----------------|------------------------|--------------|:--------------|--------------|------:|
+| [ConEmu](#conemu)                                  | Yes      | > 2             | [ConEmu]               | 2016-09-05   | ConEmu        | Yes          | No    |
+| [ISE](#ise)                                        | No       | > 1             | [ISE]                  | 2015-10-30   | Microsoft     | Yes          | No    |
+| [ISESteroids](#isesteroids)                        | No       | > 2             | [ISESteroids]          | 2016-09-06   | PowerTheShell | No           |   €99 |
+| [PowerShell Plus](#plus)                           | No       | > 2             | [PowerShell Plus]      | 2016-03-12   | Idera         | Yes          | No    |
+| [PowerGui](#powergui)                              | No       | > 2             | [PowerGui]             | 2014-04-07   | ConEmu        | Yes          | No    |
+| [PowerShell Studio](#studio)                       | No       | > 2             | [PowerShell Studio]    | 2016-03-12   | SAPIEN        | Yes          |  $389 |
+| [PowerShell Tools for Visual Studio 2015](#vs2015) | No       | > 3             | [PowerGui]             | 2016-07-15   | Adam Driscoll | Yes          | No    |
 
 
 ## ConEmu <a id="conemu"></a>
@@ -79,7 +80,23 @@ Price: $389
  - Create advanced functions using the Function Builder.
  - Script with cmdlets from a remote machine.
  - Source control integration.
-...
+
+
+## PowerShell Tools for Visual Studio 2015 <a id="vs2015"></a>
+Download page: [PowerShell Tools for Visual Studio 2015]<br/>
+Release date: 2016-07-15<br/>
+Support Version: > 3<br/>
+Developer: Adam Driscoll<br/>
+Free version: Yes<br/>
+Price: No
+
+PowerShell Tools for Visual Studio brings the richness of the Visual Studio development experience together with the power of PowerShell.
+Using this extension you can:
+ - Edit, run and debug PowerShell scripts locally and remotely using the Visual Studio debugger
+ - Create projects for PowerShell scripts and modules
+ - Leverage Visual Studio’s locals, watch, call stack for your scripts and modules
+ - Use the PowerShell interactive REPL window to execute PowerShell scripts and command right from Visual Studio
+ - Automated Testing support using Pester 
 
 
 [ConEmu]:https://conemu.github.io/
@@ -88,3 +105,4 @@ Price: $389
 [PowerShell Plus]:https://www.idera.com/productssolutions/freetools/powershellplus
 [PowerGui]:http://en.community.dell.com/techcenter/powergui/
 [PowerShell Studio]:https://www.sapien.com/software/powershell_studio
+[PowerShell Tools for Visual Studio 2015]:https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
