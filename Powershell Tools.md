@@ -1,16 +1,16 @@
 # PowerShell Tools and Utilities
 
 
-| Name/Description                                   | Portable | Support Version | Official/Download page | Release Date | Developer     | Free version | Price |
-|----------------------------------------------------|----------|-----------------|------------------------|--------------|:--------------|--------------|------:|
-| [ConEmu](#conemu)                                  | Yes      | > 2             | [ConEmu]               | 2016-09-05   | ConEmu        | Yes          | No    |
-| [ISE](#ise)                                        | No       | > 1             | [ISE]                  | 2015-10-30   | Microsoft     | Yes          | No    |
-| [ISESteroids](#isesteroids)                        | No       | > 2             | [ISESteroids]          | 2016-09-06   | PowerTheShell | No           |   €99 |
-| [PowerShell Plus](#plus)                           | No       | > 2             | [PowerShell Plus]      | 2016-03-12   | Idera         | Yes          | No    |
-| [PowerGui](#powergui)                              | No       | > 2             | [PowerGui]             | 2014-04-07   | ConEmu        | Yes          | No    |
-| [PowerShell Studio](#studio)                       | No       | > 2             | [PowerShell Studio]    | 2016-03-12   | SAPIEN        | Yes          |  $389 |
-| [PowerShell Tools for Visual Studio 2015](#vs2015) | No       | > 3             | [PowerGui]             | 2016-07-15   | Adam Driscoll | Yes          | No    |
-| [Idera Uptime]                                     | No       | > 2             | [Idera Uptime]         | 2017-01-10   | Idera         | No           | ?     |
+| Name/Description                                   | Portable | Support Version | Official/Download page    | Release Date | Developer     | Free version | Price |
+|----------------------------------------------------|----------|-----------------|---------------------------|--------------|:--------------|--------------|------:|
+| [ConEmu](#conemu)                                  | Yes      | > 2             | [ConEmu]                  | 2016-09-05   | ConEmu        | Yes          | No    |
+| [ISE](#ise)                                        | No       | > 1             | [ISE]                     | 2015-10-30   | Microsoft     | Yes          | No    |
+| [ISESteroids](#isesteroids)                        | No       | > 2             | [ISESteroids]             | 2016-09-06   | PowerTheShell | No           |   €99 |
+| [PowerShell Plus](#plus)                           | No       | > 2             | [PowerShell Plus]         | 2016-03-12   | Idera         | Yes          | No    |
+| [PowerGui](#powergui)                              | No       | > 2             | [PowerGui]                | 2014-04-07   | ConEmu        | Yes          | No    |
+| [PowerShell Studio](#studio)                       | No       | > 2             | [PowerShell Studio]       | 2016-03-12   | SAPIEN        | Yes          |  $389 |
+| [PowerShell Tools for Visual Studio 2015](#vs2015) | No       | > 3             | [Tools for Visual Studio] | 2016-07-15   | Adam Driscoll | Yes          | No    |
+| [Idera Uptime](#idera-uptime)                      | No       | > 2             | [Idera Uptime]            | 2017-01-10   | Idera         | No           | ?     |
 
 ## ConEmu <a id="conemu"></a>
 Download page: [ConEmu]<br/>
@@ -123,5 +123,5 @@ Flexible Automation and Monitoring for PowerShell
 [PowerShell Plus]:https://www.idera.com/productssolutions/freetools/powershellplus
 [PowerGui]:http://en.community.dell.com/techcenter/powergui/
 [PowerShell Studio]:https://www.sapien.com/software/powershell_studio
-[PowerShell Tools for Visual Studio 2015]:https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
+[Tools for Visual Studio]:https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
 [Idera Uptime]:https://www.idera.com/lp/uim/boost-powershell-with-powerful-it-monitoring
