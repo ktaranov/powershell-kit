@@ -10,7 +10,7 @@
 | [PowerGui](#powergui)                              | No       | > 2             | [PowerGui]             | 2014-04-07   | ConEmu        | Yes          | No    |
 | [PowerShell Studio](#studio)                       | No       | > 2             | [PowerShell Studio]    | 2016-03-12   | SAPIEN        | Yes          |  $389 |
 | [PowerShell Tools for Visual Studio 2015](#vs2015) | No       | > 3             | [PowerGui]             | 2016-07-15   | Adam Driscoll | Yes          | No    |
-
+| [Idera Uptime]                                     | No       | > 2             | [Idera Uptime]         | 2017-01-10   | Idera         | No           | ?     |
 
 ## ConEmu <a id="conemu"></a>
 Download page: [ConEmu]<br/>
@@ -99,6 +99,24 @@ Using this extension you can:
  - Automated Testing support using Pester 
 
 
+## Idera Uptime <a id="idera-uptime"></a>
+Download page: [Idera Uptime]<br/>
+Release date: 2016-01-10<br/>
+Support Version: > 2<br/>
+Developer: Idera<br/>
+Free version: No<br/>
+Price: ?
+
+Flexible Automation and Monitoring for PowerShell
+ - Automatically react to problems detected by
+ - service monitors that run scripts
+ - Alert, escalate, and recover by executing scripts
+ - Connect existing scripts to monitoring environment
+ - to automate their execution
+ - Avoid writing certain scripts in flexible yet simple
+ - monitoring environment
+
+
 [ConEmu]:https://conemu.github.io/
 [ISE]:https://msdn.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-integrated-scripting-environment--ise-
 [ISESteroids]:http://www.powertheshell.com/isesteroids2-2/
@@ -106,3 +124,4 @@ Using this extension you can:
 [PowerGui]:http://en.community.dell.com/techcenter/powergui/
 [PowerShell Studio]:https://www.sapien.com/software/powershell_studio
 [PowerShell Tools for Visual Studio 2015]:https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
+[Idera Uptime]:https://www.idera.com/lp/uim/boost-powershell-with-powerful-it-monitoring
