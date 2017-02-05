@@ -1,13 +1,17 @@
 # PowerShell Tools and Utilities
 
+To Do:
+ - [ ] [AWS Tools for Windows PowerShell](https://aws.amazon.com/powershell/)
+ - [ ] [VMware PowerCLI](https://www.vmware.com/support/developer/PowerCLI/)
+ - [ ] [Windows PowerShell ISE Add-On Tools](http://social.technet.microsoft.com/wiki/contents/articles/2969.windows-powershell-ise-add-on-tools.aspx)
 
 | Name/Description                                   | Portable | Support Version | Official/Download page    | Release Date | Developer     | Free version | Price |
 |----------------------------------------------------|----------|-----------------|---------------------------|--------------|:--------------|--------------|------:|
 | [ConEmu](#conemu)                                  | Yes      | > 2             | [ConEmu]                  | 2016-09-05   | ConEmu        | Yes          | No    |
 | [ISE](#ise)                                        | No       | > 1             | [ISE]                     | 2015-10-30   | Microsoft     | Yes          | No    |
+| [Visualstudio Code](#visualstudio-code)            | No       | > 2             | [Visualstudio Code]       | 2017-02-02   | Microsoft     | Open Source  | No    |
 | [ISESteroids](#isesteroids)                        | No       | > 2             | [ISESteroids]             | 2016-09-06   | PowerTheShell | No           |   €99 |
 | [PowerShell Plus](#plus)                           | No       | > 2             | [PowerShell Plus]         | 2016-03-12   | Idera         | Yes          | No    |
-| [PowerGui](#powergui)                              | No       | > 2             | [PowerGui]                | 2014-04-07   | ConEmu        | Yes          | No    |
 | [PowerShell Studio](#studio)                       | No       | > 2             | [PowerShell Studio]       | 2016-03-12   | SAPIEN        | Yes          |  $389 |
 | [PowerShell Tools for Visual Studio 2015](#vs2015) | No       | > 3             | [Tools for Visual Studio] | 2016-07-15   | Adam Driscoll | Yes          | No    |
 | [Idera Uptime](#idera-uptime)                      | No       | > 2             | [Idera Uptime]            | 2017-01-10   | Idera         | No           | ?     |
@@ -28,13 +32,25 @@ GUI window with various features.
 Download page: [ISE]<br/>
 Release date: 2015-10-30<br/>
 Support Version: > 1<br/>
-Developer: ConEmu<br/>
+Developer: Microsoft<br/>
 Free version: Yes<br/>
 Price: No
 
 The Windows PowerShell Integrated Scripting Environment (ISE) is one of two hosts for the Windows PowerShell engine and language.
 With it you can write, run, and test scripts in ways that are not available in the Windows PowerShell Console.
 The ISE adds syntax-coloring, tab completion, IntelliSense, visual debugging, and context sensitive Help.
+
+
+## Visualstudio Code <a id="visualstudio-code"></a>
+Download page: [Visualstudio Code]<br/>
+Release date: 2017-02-02<br/>
+Support Version: > 2<br/>
+Developer: Microsoft<br/>
+Free version: Yes<br/>
+Price: No
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, Mac and Linux.
+It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Python, PHP, Go) and runtimes.
 
 
 ## ISESteroids <a id="isesteroids"></a>
@@ -119,9 +135,9 @@ Flexible Automation and Monitoring for PowerShell
 
 [ConEmu]:https://conemu.github.io/
 [ISE]:https://msdn.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-integrated-scripting-environment--ise-
+[Visualstudio Code]:https://code.visualstudio.com/
 [ISESteroids]:http://www.powertheshell.com/isesteroids2-2/
 [PowerShell Plus]:https://www.idera.com/productssolutions/freetools/powershellplus
-[PowerGui]:http://en.community.dell.com/techcenter/powergui/
 [PowerShell Studio]:https://www.sapien.com/software/powershell_studio
 [Tools for Visual Studio]:https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
 [Idera Uptime]:https://www.idera.com/lp/uim/boost-powershell-with-powerful-it-monitoring
