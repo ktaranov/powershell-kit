@@ -38,6 +38,7 @@ Headers
    - [Adam Bertram PowerShell Scripts](https://github.com/adbertram/Random-PowerShell-Work) (Github)
    - [PoshRSJob - an alternative to PSjobs with greater performance and less overhead to run commands in the background](https://github.com/proxb/PoshRSJob) (Github)
    - [PSParallel - PowerShell module to invoke scriptblocks in parallel runspaces](https://github.com/powercode/PSParallel) (Github)
+   - [PSLogging - Easily create and manage logging of events for all of your PowerShell scripts](https://github.com/9to5IT/PSLogging) (Github) (by Luca Sturlese)
  - Free Videos
    - [Jeff Hicks YouTube Channel](http://www.youtube.com/user/jdhitsolutions/videos)
    - [Don Jones YouTube Channel](http://www.youtube.com/user/powershelldon)
