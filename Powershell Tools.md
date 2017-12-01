@@ -9,7 +9,7 @@ To Do:
 |----------------------------------------------------|----------|-----------------|---------------------------|--------------|:--------------|--------------|------:|
 | [ConEmu](#conemu)                                  | Yes      | > 2             | [ConEmu]                  | 2016-09-05   | ConEmu        | Yes          | No    |
 | [ISE](#ise)                                        | No       | > 1             | [ISE]                     | 2015-10-30   | Microsoft     | Yes          | No    |
-| [Visualstudio Code](#visualstudio-code)            | No       | > 2             | [Visualstudio Code]       | 2017-02-02   | Microsoft     | Open Source  | No    |
+| [VS Code](#vs-code)                                | No       | > 2             | [Visualstudio Code]       | 2017-02-02   | Microsoft     | Open Source  | No    |
 | [ISESteroids](#isesteroids)                        | No       | > 2             | [ISESteroids]             | 2016-09-06   | PowerTheShell | No           |   €99 |
 | [PowerShell Plus](#plus)                           | No       | > 2             | [PowerShell Plus]         | 2016-03-12   | Idera         | Yes          | No    |
 | [PowerShell Studio](#studio)                       | No       | > 2             | [PowerShell Studio]       | 2016-03-12   | SAPIEN        | Yes          |  $389 |
@@ -41,8 +41,8 @@ With it you can write, run, and test scripts in ways that are not available in t
 The ISE adds syntax-coloring, tab completion, IntelliSense, visual debugging, and context sensitive Help.
 
 
-## Visualstudio Code <a id="visualstudio-code"></a>
-Download page: [Visualstudio Code]<br/>
+## VS Code <a id="vs-code"></a>
+Download page: [VS Code]<br/>
 Release date: 2017-02-02<br/>
 Support Version: > 2<br/>
 Developer: Microsoft<br/>

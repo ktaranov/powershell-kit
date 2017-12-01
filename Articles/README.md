@@ -15,7 +15,7 @@
 | [PSYaml: PowerShell does YAML]                                       | Phil Factor     | 2016-09-23 |
 | [PowerShell, Pester and Ola Hallengrens Maintenance Solution]        | Rob Sewell      | 2016-09-24 |
 | [About PowerShell Pipelines]                                         | TECHNET         | 2014-05-08 |
-
+| [Using Plaster To Create a New PowerShell Module]                    | Rob Sewell      | 2017-11-09 |
 
 [When to Quote in PowerShell]:https://www.simple-talk.com/sysadmin/powershell/when-to-quote-in-powershell/
 [Error handling with try-catch-finally in PowerShell for SQL Server]:https://www.mssqltips.com/sqlservertip/3509/error-handling-with-trycatchfinally-in-powershell-for-sql-server/
@@ -29,3 +29,4 @@
 [PSYaml: PowerShell does YAML]:https://www.simple-talk.com/blogs/psyaml-powershell-yaml/
 [PowerShell, Pester and Ola Hallengrens Maintenance Solution]:https://sqldbawithabeard.com/2016/09/24/powershell-pester-and-ola-hallengrens-maintenance-solution/
 [About PowerShell Pipelines]:https://technet.microsoft.com/en-us/library/hh847902(v=wps.640).aspx
+[Using Plaster To Create a New PowerShell Module]:https://sqldbawithabeard.com/2017/11/09/using-plaster-to-create-a-new-powershell-module/
