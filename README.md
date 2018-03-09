@@ -72,7 +72,7 @@ Headers
 
 
 ## License
-[MIT](/LICENSE.md)
+[MIT](/LICENSE)
 
 If some procedures or scripts are restricted due to **ELUA** (or we can not find original author), please email or add issue - we remove/update it immediately.
 Thanks for understanding and patience.
