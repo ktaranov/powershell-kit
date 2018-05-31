@@ -39,12 +39,12 @@ Headers
    - [PoshRSJob - an alternative to PSjobs with greater performance and less overhead to run commands in the background](https://github.com/proxb/PoshRSJob) (Github)
    - [PSParallel - PowerShell module to invoke scriptblocks in parallel runspaces](https://github.com/powercode/PSParallel) (Github)
    - [PSLogging - Easily create and manage logging of events for all of your PowerShell scripts](https://github.com/9to5IT/PSLogging) (Github) (by Luca Sturlese)
+   - [PSScriptAnalyzer - PSScriptAnalyzer is a static code checker for Windows PowerShell modules and scripts](https://github.com/PowerShell/PSScriptAnalyzer) (Github)
  - Free Videos
    - [Jeff Hicks YouTube Channel](http://www.youtube.com/user/jdhitsolutions/videos)
    - [Don Jones YouTube Channel](http://www.youtube.com/user/powershelldon)
  - Courses
    - [Pluralsight PowerShell Courses](https://www.pluralsight.com/search?q=powershell&categories=all) Paid
-   
 
 
 ## PowerShell and SQL Server
