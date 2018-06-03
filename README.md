@@ -7,13 +7,15 @@
 Useful links, scripts, tools and best practice for PowerShell
 
 
-Headers
+## Table of Contents
  - [Repo Folders and Fles](#repo-folders-and-files)
  - [PowerShell Web Resources](PowerShell-web-resources)
  - [PowerShell and SQL Server](powershell-and-sql-server)
+ - [License](#license)
+
 
 ## Repo Folders and Files
- - [PowerShell Tools](/PowerShell Tools.md)
+ - [PowerShell Tools](/PowerShell%20Tools.md)
  - [Articles](/Articles)
  - [Scripts](/Scripts)
 
@@ -46,6 +48,8 @@ Headers
  - Courses
    - [Pluralsight PowerShell Courses](https://www.pluralsight.com/search?q=powershell&categories=all) Paid
 
+**[⬆ back to top](#table-of-contents)**
+
 
 ## PowerShell and SQL Server
  - [SQL Server & Windows Documentation Using Windows PowerShell](https://sqlpowerdoc.codeplex.com/) (by Kendal Vandyke)
@@ -69,6 +73,8 @@ Headers
  - [Trello Board: Powershell and SQL Client Tools](https://trello.com/b/NEerYXUU/powershell-sql-client-tools-sqlps-ssms)
  - [PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server](https://github.com/NetSPI/PowerUpSQL) (Github)
  - [PowerShell DBA Reports](https://github.com/SQLDBAWithABeard/dbareports) (Github)
+
+**[⬆ back to top](#table-of-contents)**
 
 
 ## License
